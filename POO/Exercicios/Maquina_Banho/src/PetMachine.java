@@ -1,9 +1,10 @@
 public class PetMachine {
-    private boolean clean;
-    private int water;
-    private int shampoo;
+    private boolean clean = true;
+    private int water = 30;
+    private int shampoo = 10;
     private Pet pet;
 
+    
 
 
     //metodos
